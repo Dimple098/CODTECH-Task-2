@@ -82,3 +82,50 @@ Project: GOOGLE ANALYTICS SETUP AND REPORTING
 
 ![image](https://github.com/Dimple098/CODTECH-Task-2/assets/173549661/83baabed-83d6-4d44-9c53-f7f75f18d423)
 
+Objectives.
+
+Implement Google Analytics 4 (GA4) on the Google Merchandise Store website.
+
+Track user behavior and interactions to generate detailed reports.
+
+Derive data-driven recommendations to optimize the website and digital marketing strategies.
+
+Configuration.
+
+Event Tracking: Defined events and parameters to track key user interactions such as pageviews, clicks, and conversions.
+
+Enhanced Measurement: Enabled to automatically track common user interactions like page scrolls and outbound clicks.
+
+User Properties: Configured to track user demographics and interests, providing valuable insights into the audience.
+
+Custom Reports and Dashboards.
+
+Custom reports and dashboards were created to monitor key metrics:
+
+Engagement Dashboard: Provides an overview of user engagement metrics including session duration, bounce rate, and average pages per session.
+
+Conversion Report: Tracks conversion events such as purchases and form submissions to measure the effectiveness of marketing campaigns.
+
+Traffic Sources Report: Analyzes the sources of website traffic (e.g., organic search, direct, referral)to identify the most effective channels for driving traffic.
+
+Analysis and Recommendations.
+
+Popular Pages: Analysis reveals that the "Featured Products" page receives the highest traffic, suggesting its importance in the user journey.
+
+Recommendation: Optimize this page for conversions by highlighting top-selling products.
+
+User Engagement: The average session duration is relatively low, indicating a need to improve website engagement.
+
+Recommendation: Enhance website content and user experience to increase engagement and reduce bounce rates.
+
+Marketing Campaign Effectiveness: Analysis of conversion events attributed to different marketing 
+
+campaigns shows that email marketing drives the highest conversions.
+
+Recommendation: Allocate more resources to email marketing campaigns to maximize ROI.
+
+
+
+
+
+
